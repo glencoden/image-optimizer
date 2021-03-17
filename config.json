@@ -1,0 +1,45 @@
+{
+    "images": {
+        "sources": [ ".jpg", ".jpeg", ".png" ],
+        "path": [ "images" ],
+        "sizes": [ 100, 300, 500, 750, 1000, 1500, 2500 ],
+        "custom": []
+    },
+    "icons": {
+        "sources": [ ".jpg", ".jpeg", ".png" ],
+        "path": [ "icons" ],
+        "sizes": [ 32, 64, 128, 256, 512, 1024 ],
+        "custom": []
+    },
+    "logos": {
+        "sources": [ "logo.png" ],
+        "path": [],
+        "sizes": [],
+        "custom": [
+            {
+                "dir": "",
+                "name": "favicon.png",
+                "method": "scale",
+                "width": 32
+            },
+            {
+                "dir": "",
+                "name": "logo64.png",
+                "method": "scale",
+                "width": 64
+            },
+            {
+                "dir": "",
+                "name": "logo192.png",
+                "method": "scale",
+                "width": 192
+            },
+            {
+                "dir": "",
+                "name": "logo512.png",
+                "method": "scale",
+                "width": 512
+            }
+        ]
+    }
+}

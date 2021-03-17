@@ -1,0 +1,24 @@
+{
+  "name": "image-optimizer",
+  "version": "1.0.0",
+  "description": "Resize and minify images using the tinify api.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/GlenCoden/image-optimizer.git"
+  },
+  "author": "Glen Coden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/GlenCoden/image-optimizer/issues"
+  },
+  "homepage": "https://gitlab.com/GlenCoden/image-optimizer#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "tinify": "^1.6.0-beta.2"
+  }
+}

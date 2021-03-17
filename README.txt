@@ -1,0 +1,1 @@
+npm start <path-to-asset-folder> - optimize images according to config.json
